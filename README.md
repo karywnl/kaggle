@@ -1,3 +1,2 @@
-﻿# kaggle-learn
+In this repository, I store the notebooks
 
-In this repository, I store the notebook files that I coded while going through the courses in the kaggle learn website.
